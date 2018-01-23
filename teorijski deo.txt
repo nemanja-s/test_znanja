@@ -1,0 +1,25 @@
+Odgovori:
+
+01. Java Script Object Notation(JSON) je format fajla koji koristi tekst razumljiv ljudima, za prenos jednostavnih struktura podataka tj. objekata.
+
+02. Extensible Markup Language (XML) je skup pravila za kodiranje dokumenata u jeziku koji je citljiv kako za ljude tako i za masinu.
+
+03. Uniform Resource Locator(URL) je poseban tip URI-ja(Uniform Resource Identifier) koji definise lokaciju web resursa na racunarskoj mrezi kao i mehanizam za njegovo preuzimanje.
+
+04. Hyper Text Transfer Protocol (HTTP) je osnovni protokol za razmenu podataka u okviru World Wide Web-a.
+
+05. RESTfull API je programski interfejs koji koristi HTTP zahteve za GET, PUT, POST i DELETE.
+
+06. Imamo sledece HTTP metode: GET, POST, PUT, HEAD, DELETE, CONNECT, OPTIONS, TRACE, PATCH
+
+07. Domain Name System (DNS) je protokol sa definisanim setom standarda koji pretvara imena sajtova u numericke IP adrese.
+
+08. Privatna ili lokalna IP adresa je adresa koja je rezervisana za internu upotrebu iza rutera ili drugih NAT uredjaja.
+
+09. Asynchronous JavaScript And XML (AJAX) je set tehnika koje koriste mnoge web tehnologije za kreiranje asinhronih web aplikacija.
+
+10. Transmission Control Protocol/Internet Protocol (TCP/IP) su dva razlicita racunarska mrezna protokola koja se primenjuju u mreznoj komunikaciji gde se TCP transport koristi za prenos podataka duz IP mreze.
+
+11. Cache ili CPU memorija je obicno integrisana sa procesorom i to je RAM kojem mikroprocesor racunara moze pristupiti mnogo brze nego regularnom RAM-u.
+
+12. Klasa je 'otisak' ili 'templejt' na osnovu koga je objekat stvoren, dok je objekat njegova instanca.
